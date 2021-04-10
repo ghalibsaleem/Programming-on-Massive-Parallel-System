@@ -1,10 +1,3 @@
-/* ==================================================================
-	Programmer: Yicheng Tu (ytu@cse.usf.edu)
-	The basic SDH algorithm implementation for 3D data
-	To compile: nvcc SDH.c -o SDH in the C4 lab machines
-   ==================================================================
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
